@@ -3,7 +3,7 @@
 
 {% block content %}
 {% if current_user.is_anonymous %}
-  <h1>Hello, stranger!</h1>
+  <h1>Hello, welcome!</h1>
 {% else  %}
   <h1>Hi, {{ current_user.username }}!</h1>
   <a href="/story1"> Story1</a>
