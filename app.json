@@ -6,7 +6,7 @@
       "Dash",
       "Plotly"
     ],
-    "repository": "git@github.com:renenadorp/medium-ml.git",
+    "repository": "https://github.com/Louie-L/medium-ml.git",
     "success_url": "/",
     "env": {
       "SECRET_KEY": {
